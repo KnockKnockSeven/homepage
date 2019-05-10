@@ -1,3 +1,7 @@
+body {
+  background-color: black;
+}
+
 .text-flicker-out-glow {
 	animation: text-flicker-out-glow 2.5s linear both;
 }
